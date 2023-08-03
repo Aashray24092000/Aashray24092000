@@ -1,19 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![logo](https://github.com/Aashray24092000/Aashray24092000/blob/main/I%20do%20not%20fear%20computers.%20I%20fear%20lack%20of%20them..png)
 
 <h1 align="center">Hi 👋, I'm Asharaya Singh Bhadauriya</h1>
